@@ -12,5 +12,7 @@ This is a full basic and first step project to help another project. Actually th
     8. Finally rename the public folder and use as a html template 
 
 
+Date: 20-Dec-2020
+
 ### Md. Rezwan Saki Alin 
 ### https://www.alinsworld.com
